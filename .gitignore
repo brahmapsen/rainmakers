@@ -1,0 +1,47 @@
+# Python
+
+**pycache**/
+_.pyc
+_.pyo
+_.pyd
+_.db
+
+
+# Virtual Environments
+
+env/
+venv/
+ENV/
+.venv/
+
+
+
+# Environment Variables
+
+.env
+.env.\*
+
+# Docker
+
+\*.log
+uv.lock
+
+# VS Code / IDEs
+
+.vscode/
+.idea/
+_.sublime-project
+_.sublime-workspace
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+
+third_party/
+
+
+
+
+# FastAPI Docs

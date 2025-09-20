@@ -1,0 +1,6 @@
+## Requirements
+fastapi>=0.112
+uvicorn[standard]>=0.30
+numpy>=1.26
+scipy>=1.12
+python-osc>=1.8
